@@ -1,0 +1,66 @@
+[
+    {   
+        "id": 1,
+        "image": "./src/img/product.png",
+        "name": "Asus ZenFone Go ZB452KG",
+        "price": 384.4,
+        "category": "Recommend",
+        "description": "A reliable smartphone with excellent features and performance."
+    },
+    {   
+        "id": 2,
+        "image": "./src/img/product_2.png",
+        "name": "Xiaomi Mi Band 2",
+        "price": 250.99,
+        "category": "Bestseller",
+        "description": "A popular fitness tracker with a sleek design and great functionality."
+    },
+    {   
+        "id": 3,
+        "image": "./src/img/product_3.png",
+        "name": "LG 43UH610V",
+        "price": 384.4,
+        "category": "Goods of the week",
+        "description": "A top-quality TV with stunning visuals and smart features."
+    },
+    {   
+        "id": 4,
+        "image": "./src/img/product_4.png",
+        "name": "Apple iMac 27 Retina 5K",
+        "price": 384.4,
+        "category": "Recommend",
+        "description": "A powerful desktop computer with a breathtaking 5K Retina display."
+    },
+    {   
+        "id": 5,
+        "image": "./src/img/product_5.png",
+        "name": "Asus ZenFone Go ZB452KG",
+        "price": 384.4,
+        "category": "New product",
+        "description": "A reliable smartphone with excellent features and performance."
+    },
+    {   
+        "id": 6,
+        "image": "./src/img/product_6.png",
+        "name": "Electrolux EZB 52410 AK",
+        "price": 384.4,
+        "category": "Recommend",
+        "description": "A high-quality oven with multiple cooking functions and modern design."
+    },
+    {   
+        "id": 7,
+        "image": "./src/img/product_7.png",
+        "name": "Beats studio wireless",
+        "price": 384.4,
+        "category": "Bestseller",
+        "description": "Premium wireless headphones with exceptional sound quality and comfort."
+    },
+    {   
+        "id": 8,
+        "image": "./src/img/product_8.png",
+        "name": "Nikon D3300 Kit",
+        "price": 384.4,
+        "category": "Recommend",
+        "description": "A versatile camera kit for capturing high-quality photos and videos."
+    }
+]

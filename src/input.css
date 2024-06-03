@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: 'Roboto';
+        src: url('./src/fonts/Roboto-Regular.ttf') format('truetype');
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    @font-face {
+        font-family: 'Roboto';
+        src: url('./src/fonts/Roboto-Medium.ttf') format('truetype');
+        font-weight: 500;
+        font-style: normal;
+    }
+
+    @font-face {
+        font-family: 'Roboto';
+        src: url('./src/fonts/Roboto-Bold.ttf') format('truetype');
+        font-weight: 700;
+        font-style: normal;
+    }
+
+    body {
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 20px;
+        word-wrap: break-word;
+        color: #808080;
+    }
+    button {
+        color: #999999;
+    }
+    button:hover {
+        color: #fff;
+        transition: ease-in-out 0.15;
+        background: #0078FF;
+      }
+    input::placeholder {
+        font-family: 'Roboto', sans-serif;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 20px; 
+      }
+      a:hover {
+        color: #808080 ;
+        transition: ease-in-out 0.15;
+      }
+      a:active {
+        color: #fff;
+        transition: ease-in-out 0.15;
+        background: #0078FF;
+        border-radius: 5px;
+      }
+      li {
+        color: #999999;
+      }
+      li:hover {
+        color: #808080 ;
+        transition: ease-in-out 0.15;
+      }
+      li:active {
+        color: #fff;
+        transition: ease-in-out 0.15;
+        background: #0078FF;
+        border-radius: 5px;
+      }
+}
